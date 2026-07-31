@@ -793,6 +793,8 @@ h1, h2, h3, h4, .serif { font-family: var(--serif); font-weight: 400; }
 
 .cta-band { text-align: center; }
 
+.page-wrap > .cta-band:last-child { margin-bottom: -6rem; }
+
 .cta-band h2 { font-size: 2.25rem; margin-bottom: 2rem; }
 
 .cta-band p {
